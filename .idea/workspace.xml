@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccbaf37c-5eb9-4cb5-8a13-c768b4b59385" name="Changes" comment="Helloам" />
+    <list default="true" id="ccbaf37c-5eb9-4cb5-8a13-c768b4b59385" name="Changes" comment="Commit #1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +60,16 @@
       <workItem from="1658337198426" duration="49000" />
       <workItem from="1658337250088" duration="47000" />
       <workItem from="1658337299482" duration="648000" />
+      <workItem from="1658337952682" duration="2267000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit #1">
+      <created>1658338023296</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658338023296</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +90,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/my-app" />
     </ignored-roots>
+    <MESSAGE value="Commit #1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit #1" />
   </component>
 </project>
