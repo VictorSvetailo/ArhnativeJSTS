@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccbaf37c-5eb9-4cb5-8a13-c768b4b59385" name="Changes" comment="Commit #1">
+    <list default="true" id="ccbaf37c-5eb9-4cb5-8a13-c768b4b59385" name="Changes" comment="Commit create Object">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,10 @@
       <workItem from="1658337198426" duration="49000" />
       <workItem from="1658337250088" duration="47000" />
       <workItem from="1658337299482" duration="648000" />
-      <workItem from="1658337952682" duration="2267000" />
+      <workItem from="1658337952682" duration="5068000" />
+      <workItem from="1658420733552" duration="1197000" />
+      <workItem from="1658496477788" duration="91000" />
+      <workItem from="1658942312142" duration="4813000" />
     </task>
     <task id="LOCAL-00001" summary="Commit #1">
       <created>1658338023296</created>
@@ -69,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658338023296</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit create Object">
+      <created>1658340532713</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658340532713</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +102,7 @@
       <path value="$PROJECT_DIR$/my-app" />
     </ignored-roots>
     <MESSAGE value="Commit #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit #1" />
+    <MESSAGE value="Commit create Object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit create Object" />
   </component>
 </project>
