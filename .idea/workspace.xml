@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccbaf37c-5eb9-4cb5-8a13-c768b4b59385" name="Changes" comment="Commit create Object">
+    <list default="true" id="ccbaf37c-5eb9-4cb5-8a13-c768b4b59385" name="Changes" comment="Lesson native JS TS 'MAP' 'FILTER' 'FIND'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,9 @@
       <workItem from="1658420733552" duration="1197000" />
       <workItem from="1658496477788" duration="91000" />
       <workItem from="1658942312142" duration="4813000" />
+      <workItem from="1658947755954" duration="673000" />
+      <workItem from="1659080288857" duration="43000" />
+      <workItem from="1659546438647" duration="4587000" />
     </task>
     <task id="LOCAL-00001" summary="Commit #1">
       <created>1658338023296</created>
@@ -80,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658340532713</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lesson native JS TS 'MAP' 'FILTER' 'FIND'">
+      <created>1658947806987</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658947806987</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +113,7 @@
     </ignored-roots>
     <MESSAGE value="Commit #1" />
     <MESSAGE value="Commit create Object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit create Object" />
+    <MESSAGE value="Lesson native JS TS 'MAP' 'FILTER' 'FIND'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson native JS TS 'MAP' 'FILTER' 'FIND'" />
   </component>
 </project>
