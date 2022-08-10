@@ -1,63 +1,28 @@
 
 
 
-const sm = document.getElementById('small')
+const todoLists = [
+    {
+        id: 1,
+        title: 'What to learn',
+        filter: 'all',
+    },
+    {
+        id: 2,
+        title: 'What to buy',
+        filter: 'all',
+    },
+]
 
-const clickHandler = (e) => {
-    console.log(e)
-    alert('Victor and React')
+const tasks = {
+    1: [
+        {id: 11, title: 'JS', isDone: false},
+        {id: 12, title: 'HTML', isDone: false},
+        {id: 13, title: 'CSS', isDone: false},
+    ],
+    2: [
+        {id: 11, title: 'JS', isDone: false},
+        {id: 12, title: 'HTML', isDone: false},
+        {id: 13, title: 'CSS', isDone: false},
+    ]
 }
-const clickHandler1 = (e) => {
-    console.log(e)
-    alert('Victor and React')
-}
-
-// sm.onclick = clickHandler
-
-sm.addEventListener('click', clickHandler)
-// sm.removeEventListener('click', clickHandler)
-sm.addEventListener('click', clickHandler1)
-
-
-
-
-
-// const students = [
-//     {
-//         name: "John",
-//         age: 19,
-//         isMarried: false,
-//         scores: 100
-//     },
-//     {
-//         name: "Bob",
-//         age: 22,
-//         isMarried: true,
-//         scores: 85,
-//     },
-//     {
-//         name: "Alex",
-//         age: 21,
-//         isMarried: true,
-//         scores: 89
-//     },
-//     {
-//         name: "Nick",
-//         age: 20,
-//         isMarried: false,
-//         scores: 120
-//     },
-// ];
-
-
-
-
-
-
-
-
-
-
-
-
-
